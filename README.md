@@ -27,7 +27,7 @@
 Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
 
 
-## Table of contents 32
+## Table of contents 54
 
 - [Quick start](#quick-start)
 - [Status](#status)
@@ -42,7 +42,7 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 - [Copyright and license](#copyright-and-license)
 
 
-## Quick start
+## Quick start 456
 
 Several quick start options are available:
 
@@ -56,7 +56,7 @@ Several quick start options are available:
 Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
 
 
-## Status
+## Status 235
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/twbs/bootstrap/js.yml?branch=main&label=JS%20Tests&logo=github)](https://github.com/twbs/bootstrap/actions?query=workflow%3AJS+Tests+branch%3Amain)
 [![npm version](https://img.shields.io/npm/v/bootstrap?logo=npm&logoColor=fff)](https://www.npmjs.com/package/bootstrap)
@@ -74,7 +74,7 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-starte
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap?logo=opencollective&logoColor=fff)](#sponsors)
 
 
-## What's included
+## What's included 897
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations.
 
